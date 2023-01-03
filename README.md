@@ -1,2 +1,2 @@
-# Testing Features on git 
+# Testing Features on git is easy
 testing git commands
